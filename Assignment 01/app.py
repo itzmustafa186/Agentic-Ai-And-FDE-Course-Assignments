@@ -38,3 +38,26 @@
 
 # import os
 # print(os.listdir())
+
+# Q6. Create one variable of each of these data types — integer, float, string, boolean, and None — and print each value along with its type using type().
+
+# a = 10
+# b = 10.5
+# c = "Python"
+# d = True
+# e = None
+
+# print(a, type(a))
+# print(b, type(b))
+# print(c, type(c))
+# print(d, type(d))
+# print(e, type(e))
+
+# Q7. Write a program that asks the user for two numbers, adds them, and prints the sum
+
+# num1 = int(input("Enter first number : "))
+# num2 = int(input("Enter second number : "))
+
+# add = num1 + num2
+
+# print("The Sum of two number is :" ,  add )
